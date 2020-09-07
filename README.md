@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eldhoabe" alt="eldhoabe" /> </p>
 
-- 🌱 I’m currently learning **nginx**
+- 🌱 I’m currently learning **nginx, AWS**
 
-- 💬 Ask me about **Angular, Microservice, RabbitMQ**
+- 💬 Ask me about **C#,Angular, Microservice, RabbitMQ**
 
 - 📫 How to reach me **eldhoabe.07@gmail.com**
 
