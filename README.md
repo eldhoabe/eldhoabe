@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **C#,Angular, Microservice, RabbitMQ**
 
-- 📫 How to reach me **eldhoabe.07@gmail.com**
+- 📫 How to reach me **eldhoabe.07(AT)gmail.com**
 
 - ⚡ Fun fact **Chai over coffee**
 
