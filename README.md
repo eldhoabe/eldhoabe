@@ -1,5 +1,10 @@
 # 👋 Hey, I'm Eldho Abe
 
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=eldhoabe&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+</p>
+
 <h3 align="center">⚡ Building Software · Exploring AI · Shipping Products</h3>
 
 <p align="center">
