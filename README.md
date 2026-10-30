@@ -24,9 +24,10 @@
 
 ### 🚀 Things I'm Building
 
-| Project | What it's about |
-|---|---|
-| 🌐 [MilkJournal](https://milkjournal.in) | Independent product |
+
+| Product | What it does | Repository |
+|---|---|---|
+| 🥛 [MilkJournal](https://milkjournal.in) | Track daily household milk consumption, delivery history and monthly bills. | [GitHub](https://github.com/eldhoabe/MilkDiary) |
 
 ### 💻 Tech Arsenal
 
